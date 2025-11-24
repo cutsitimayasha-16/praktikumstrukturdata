@@ -1,4 +1,3 @@
-Berikut **penjelasan lengkap per fungsi** dari kode Linked List kamu, dengan bahasa yang mudah dipahami 👇
 
 ---
 
@@ -187,4 +186,4 @@ manggis->mangga->anggur->jeruk->apel->
 
 ---
 
-Kalau mau, aku bisa buatkan **diagram alur**, **gambar node**, atau **versi kode yang diperbaiki**. Mau?
+
